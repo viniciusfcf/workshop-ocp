@@ -6,5 +6,4 @@ echo "<h2>Cidades cadastradas no Banco de Dados:</h2>";
 
     echo "0 results";
 
-$conn->close();
 ?>
